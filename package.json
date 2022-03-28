@@ -1,5 +1,5 @@
 {
-  "name": "portfolio_nextjs",
+  "name": "React_Portfolio-",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,10 +9,11 @@
   },
   "dependencies": {
     "next": "10.2.3",
+    "nodemon": "^2.0.15",
     "react": "17.0.2",
     "react-dom": "17.0.2",
+    "react-icons": "^4.2.0",
     "styled-components": "^5.3.0",
-    "styled-normalize": "^8.0.7",
-    "react-icons": "^4.2.0"
+    "styled-normalize": "^8.0.7"
   }
 }
