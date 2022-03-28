@@ -1,12 +1,12 @@
 ## Personal Portfolio
 
-### [Live Site](https://jsmasterypro.com)
+### [Work In Progress](https://google.com)
 
 ![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
 
-This is a code repository for the corresponding video tutorial. Your portfolio is your resume and your business card.
+This is a react portfolio of my work and skills that I am still developing and growning.
 
-In this video, we will create a full Personal Development Portfolio. We're going to use React and Next.js.
 
 Setup:
-- run ```npm i && npm start```
+- run ```npm i && npm run build```
+- run ```npm run start```
