@@ -27,13 +27,31 @@ export const projects = [
     id: 2,
   },
   {
+    title: 'Note Taker with Express',
+    description: "A simple Web-App that uses express to create a to-do list for the end user.",
+    image: '/images/NoteTaker.png',
+    tags: ['Express', 'JavaScript', 'CSS'],
+    source: 'https://safe-retreat-67509.herokuapp.com/',
+    visit: 'https://github.com/willtham1/Note-Taker',
+    id: 4,
+  },
+  {
+    title: 'Budget Tracker',
+    description: "The app allows any user to create a list of items the user has purchased. This allows the end user to manage and consolidate their money.",
+    image: '/images/BudgetTracker.png',
+    tags: ['Express', 'JavaScript', 'Mongoose'],
+    source: 'https://google.com',
+    visit: 'https://google.com',
+    id: 5,
+  },
+  {
     title: 'Work In Progress',
     description: "Work In Progress",
     image: '/images/',
     tags: ['None', 'None', 'None'],
     source: 'https://google.com',
     visit: 'https://google.com',
-    id: 3,
+    id: 6,
   },
 ];
 
