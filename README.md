@@ -2,7 +2,7 @@
 
 ### [Work In Progress](https://google.com)
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png) This is a temp picture.
+![Portfolio Website](images/Portfolio.png)
 
 This is a react portfolio of my work and skills that I am still developing and growning.
 
